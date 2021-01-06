@@ -4,7 +4,7 @@
   <export target="tsyofficemap.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" name="Floor" tilewidth="32" tileheight="32" tilecount="64" columns="8">
-  <image source="../../../Downloads/floortileset.png" width="256" height="256"/>
+  <image source="floortileset.png" width="256" height="256"/>
  </tileset>
  <tileset firstgid="65" name="FloorPlan" tilewidth="1687" tileheight="1777" tilecount="1" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
