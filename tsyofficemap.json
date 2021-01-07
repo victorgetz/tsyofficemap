@@ -32,7 +32,7 @@
                 {
                  "name":"silent",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,7 +68,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ideaboardz.com\/for\/Test%204%20WA\/3612003"
+                 "value":"https:\/\/miro.com\/app\/board\/o9J_lZ_tUvY=\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -101,7 +101,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
